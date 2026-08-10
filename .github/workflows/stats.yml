@@ -27,18 +27,7 @@ jobs:
         with:
           card: stats
           options: >-
-            username=${{ github.repository_owner }}
-            &show_icons=true
-            &include_all_commits=true
-            &show=reviews,prs_merged,prs_merged_percentage
-            &hide_border=true
-            &bg_color=00000000
-            &title_color=00E7FF
-            &text_color=C9D1D9
-            &icon_color=7C3AED
-            &ring_color=00E7FF
-            &locale=pt-br
-            &custom_title=GITHUB%20TELEMETRY
+            {"username":"${{ github.repository_owner }}","show_icons":"true","include_all_commits":"true","show":"reviews,prs_merged,prs_merged_percentage","hide_border":"true","bg_color":"00000000","title_color":"00E7FF","text_color":"C9D1D9","icon_color":"7C3AED","ring_color":"00E7FF","locale":"pt-br","custom_title":"GITHUB TELEMETRY"}
           path: profile/stats.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
@@ -47,17 +36,7 @@ jobs:
         with:
           card: top-langs
           options: >-
-            username=${{ github.repository_owner }}
-            &layout=compact
-            &langs_count=8
-            &size_weight=0.5
-            &count_weight=0.5
-            &hide_border=true
-            &bg_color=00000000
-            &title_color=00E7FF
-            &text_color=C9D1D9
-            &locale=pt-br
-            &custom_title=TECH%20TELEMETRY
+            {"username":"${{ github.repository_owner }}","layout":"compact","langs_count":"8","size_weight":"0.5","count_weight":"0.5","hide_border":"true","bg_color":"00000000","title_color":"00E7FF","text_color":"C9D1D9","locale":"pt-br","custom_title":"TECH TELEMETRY"}
           path: profile/top-langs.svg
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
