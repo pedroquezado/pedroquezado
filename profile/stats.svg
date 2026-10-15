@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GITHUB TELEMETRY, Rank: B-</title>
-        <desc id="descId">Total de estrelas: 5, Total de Commits  : 1522, Total de PRs: 49, Total de PRs Integrados: 46, Porcentagem de PRs Integrados: 93.88, Total de PRs revisados: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
+        <desc id="descId">Total de estrelas: 5, Total de Commits  : 1531, Total de PRs: 49, Total de PRs Integrados: 46, Porcentagem de PRs Integrados: 93.88, Total de PRs revisados: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 183.52764367518486;
+        stroke-dashoffset: 183.43693788821938;
       }
     }
   
