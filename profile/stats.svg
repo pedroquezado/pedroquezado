@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">GITHUB TELEMETRY, Rank: B-</title>
-        <desc id="descId">Total de estrelas: 5, Total de Commits  : 1611, Total de PRs: 49, Total de PRs Integrados: 46, Porcentagem de PRs Integrados: 93.88, Total de PRs revisados: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
+        <desc id="descId">Total de estrelas: 5, Total de Commits  : 1633, Total de PRs: 50, Total de PRs Integrados: 47, Porcentagem de PRs Integrados: 94.00, Total de PRs revisados: 0, Total de Issues: 0, Contribuiu para (ano passado): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 182.65505524064113;
+        stroke-dashoffset: 182.00898030469915;
       }
     }
   
@@ -199,7 +199,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs"
-      >49</text>
+      >50</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs_merged"
-      >46</text>
+      >47</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="274.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >93.88 %</text>
+      >94.00 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
